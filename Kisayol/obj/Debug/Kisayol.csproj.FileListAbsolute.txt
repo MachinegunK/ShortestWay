@@ -1,0 +1,7 @@
+C:\Users\Ian Kings\Documents\Visual Studio 2017\Projects\Kisayol\Kisayol\bin\Debug\Kisayol.exe.config
+C:\Users\Ian Kings\Documents\Visual Studio 2017\Projects\Kisayol\Kisayol\bin\Debug\Kisayol.exe
+C:\Users\Ian Kings\Documents\Visual Studio 2017\Projects\Kisayol\Kisayol\bin\Debug\Kisayol.pdb
+C:\Users\Ian Kings\Documents\Visual Studio 2017\Projects\Kisayol\Kisayol\obj\Debug\Kisayol.csprojResolveAssemblyReference.cache
+C:\Users\Ian Kings\Documents\Visual Studio 2017\Projects\Kisayol\Kisayol\obj\Debug\Kisayol.csproj.CoreCompileInputs.cache
+C:\Users\Ian Kings\Documents\Visual Studio 2017\Projects\Kisayol\Kisayol\obj\Debug\Kisayol.exe
+C:\Users\Ian Kings\Documents\Visual Studio 2017\Projects\Kisayol\Kisayol\obj\Debug\Kisayol.pdb
